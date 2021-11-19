@@ -1,0 +1,1 @@
+# Turbines-of-Texas-using-Time-Series-with-Facebook-Prophet-Prediction-and-Forecasting-Algorithm.ipynb
